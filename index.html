@@ -6,57 +6,65 @@
   <title>Abriendo Caminos</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-  <style>
-    body {
-      background-color: #fdfcf9;
-      font-family: 'Helvetica Neue', sans-serif;
-    }
-  </style>
+  <link rel="icon" type="image/png" href="images/logo.png">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body class="text-gray-800">
   <!-- Header con logo -->
   <header class="text-center py-8" data-aos="fade-down">
-    <img src="logo.png" alt="Logo Abriendo Caminos" class="mx-auto w-32 h-32" />
+    <img src="images/logo.png" alt="Logo Abriendo Caminos" class="mx-auto w-32 h-32" />
     <h1 class="text-3xl font-semibold text-purple-600 mt-4">Abriendo Caminos</h1>
-    <p class="text-purple-400">Energía, bienestar y estilo en armonía</p>
+    <p class="text-purple-400">Sanacíon para el alma cuerpo y mente</p>
   </header>
 
   <!-- Sección sobre nosotros -->
   <section class="px-6 py-6 max-w-xl mx-auto" data-aos="fade-up">
     <h2 class="text-2xl font-bold text-purple-600 mb-2">Quiénes somos</h2>
-    <p class="text-gray-700">Somos un espacio dedicado al bienestar energético y la expresión a través del estilo. Ofrecemos productos y servicios para cuidar tu energía, armonizar tus espacios y también prendas únicas que reflejan tu esencia.</p>
+    <p class="text-gray-700">Somos un espacio en el que tomamos a cada persona como un todo.
+      <sub style="font-size: inherit;">Trabjamos con niños, adolecentes y adultos, desde la sanación interna, acompañamos con terapia alternativas.</sub> 
+      <sub style="font-size: inherit;">Tambien pensamos en el entorno y ahi es donde hacemos limpiezas para el hogar</sub>.</p>
   </section>
 
-  <!-- Productos y Servicios -->
-  <section class="bg-purple-50 px-6 py-8 mt-4" data-aos="fade-up">
-    <h2 class="text-2xl font-bold text-purple-600 text-center mb-6">Productos & Servicios</h2>
+<!-- Productos y Servicios -->
+<section class="bg-purple-50 px-6 py-8 mt-4" data-aos="fade-up">
+  <h2 class="text-2xl font-bold text-purple-600 text-center mb-6">Productos & Servicios</h2>
 
-    <div class="mb-6">
-      <h3 class="text-xl font-semibold text-purple-500">🌿 Energía & Espiritualidad</h3>
-      <ul class="list-disc list-inside text-gray-700">
-        <li>Sahumerios artesanales</li>
-        <li>Bombas de olores para limpiezas energéticas</li>
-        <li>Guía personalizada para limpiezas</li>
-        <li>Sesiones de Reiki</li>
-      </ul>
-    </div>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+    <!-- Caja de Productos -->
+    <a href="/pages/productos.html" class="block bg-white shadow-md rounded-xl p-6 hover:shadow-lg transition-all duration-300">
+      <h3 class="text-xl font-semibold text-purple-600 mb-2 flex items-center gap-2">
+        <img src="images/sticker-sahumerio.png" alt="Sahumerio" class="w-6 h-6" />
+        Productos
+      </h3>
+      <p class="text-gray-700">Descubrí nuestros sahumerios, bombas aromáticas y mas.</p>
+    </a>
 
-    <div>
-      <h3 class="text-xl font-semibold text-purple-500">👕 Diseños de ropa</h3>
-      <ul class="list-disc list-inside text-gray-700">
-        <li>Remeras con diseños propios</li>
-        <li>Buzos y pantalones estilo urbano</li>
-        <li>Ediciones limitadas</li>
-      </ul>
-    </div>
-  </section>
+    <!-- Caja de Servicios -->
+    <a href="/pages/servicio.html" class="block bg-white shadow-md rounded-xl p-6 hover:shadow-lg transition-all duration-300">
+      <h3 class="text-xl font-semibold text-purple-600 mb-2">💆‍♀️ Servicios</h3>
+      <p class="text-gray-700">Conocé nuestras sesiones de Reiki, guías personalizadas para armonizar tu energía y muchas mas.</p>
+    </a>
+  </div>
+</section>
 
   <!-- Contacto -->
   <section class="px-6 py-8 text-center" data-aos="fade-up">
-    <h2 class="text-2xl font-bold text-purple-600 mb-2">Contacto</h2>
-    <p class="mb-2">Escribinos para pedidos, consultas o turnos</p>
-    <p class="text-purple-500 font-medium">📱 WhatsApp: <a href="https://wa.me/549XXXXXXXXXX" class="underline">+54 9 ...</a></p>
-    <p class="text-purple-500 font-medium">📷 Instagram: <a href="https://instagram.com/abriendocaminos" class="underline">@abriendocaminos</a></p>
+    <h2 class="text-2xl font-bold text-purple-600 mb-4">Contacto</h2>
+    <p class="mb-6">Escribinos para pedidos, consultas o turnos</p>
+  
+    <div class="flex justify-center gap-6">
+      <!-- Botón WhatsApp -->
+      <a href="https://wa.me/549XXXXXXXXXX" target="_blank" class="flex items-center gap-2 bg-green-500 text-white px-4 py-2 rounded-full shadow-md hover:bg-green-600 transition">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 fill-white" viewBox="0 0 24 24"><path d="M12.004 0C5.373 0 0 5.373 0 12.004c0 2.118.553 4.185 1.601 6.003L0 24l6.199-1.584c1.786.974 3.795 1.489 5.805 1.488h.001c6.629 0 12.004-5.373 12.004-12.004C24.009 5.373 18.633 0 12.004 0zm6.878 17.084c-.292.822-1.438 1.532-1.983 1.629-.511.093-1.164.132-1.875-.117-.433-.147-1.001-.324-1.723-.636-3.034-1.315-5.007-4.43-5.157-4.642-.15-.211-1.231-1.637-1.231-3.128 0-1.492.785-2.225 1.063-2.525.278-.3.603-.375.804-.375.201 0 .402.002.577.01.186.009.435-.07.683.521.271.639.922 2.214 1.003 2.373.081.159.135.351.024.562-.11.211-.165.338-.327.519-.163.181-.344.405-.49.546-.164.157-.335.329-.143.645.191.316.85 1.401 1.82 2.27 1.252 1.125 2.303 1.473 2.619 1.639.317.165.5.139.687-.083.188-.223.794-.925 1.008-1.24.214-.316.427-.262.725-.157.299.105 1.893.893 2.217 1.055.324.162.541.242.62.378.081.135.081.783-.211 1.605z"/></svg>
+        WhatsApp
+      </a>
+  
+      <!-- Botón Instagram -->
+      <a href="https://instagram.com/abriendocaminos" target="_blank" class="flex items-center gap-2 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 text-white px-4 py-2 rounded-full shadow-md hover:opacity-90 transition">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 fill-white" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.849.07 1.366.062 2.633.344 3.608 1.32.975.975 1.257 2.242 1.32 3.608.058 1.265.069 1.645.069 4.849s-.012 3.584-.069 4.849c-.063 1.366-.345 2.633-1.32 3.608-.975.975-2.242 1.257-3.608 1.32-1.265.058-1.645.069-4.849.069s-3.584-.012-4.849-.069c-1.366-.063-2.633-.345-3.608-1.32-.975-.975-1.257-2.242-1.32-3.608C2.175 15.584 2.163 15.204 2.163 12s.012-3.584.07-4.849c.062-1.366.344-2.633 1.32-3.608.975-.975 2.242-1.257 3.608-1.32C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.736 0 8.332.014 7.052.072 5.77.13 4.505.414 3.445 1.473 2.386 2.532 2.102 3.798 2.044 5.08.986 6.36.973 6.764.973 12c0 5.236.014 5.64.072 6.92.058 1.282.342 2.548 1.401 3.607 1.06 1.06 2.326 1.343 3.608 1.401 1.28.058 1.684.072 6.92.072s5.64-.014 6.92-.072c1.282-.058 2.548-.341 3.607-1.401 1.06-1.06 1.343-2.325 1.401-3.607.058-1.28.072-1.684.072-6.92s-.014-5.64-.072-6.92c-.058-1.282-.341-2.548-1.401-3.607C20.552.414 19.286.13 18.004.072 16.724.014 16.32 0 12 0z"/><path d="M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a3.999 3.999 0 1 1 0-7.998 3.999 3.999 0 0 1 0 7.998z"/><circle cx="18.406" cy="5.595" r="1.44"/></svg>
+        Instagram
+      </a>
+    </div>
   </section>
 
   <footer class="text-center text-sm text-purple-300 py-4" data-aos="fade-up">
