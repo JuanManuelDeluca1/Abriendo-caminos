@@ -44,7 +44,7 @@ document.getElementById("lista-productos").addEventListener("click", (e) => {
       document.getElementById("contenido-modal").innerHTML = `
         <h2 class="text-xl font-bold text-purple-700">${productoSeleccionado.tipo}</h2>
         <img src="../${productoSeleccionado.imagen}" alt="${productoSeleccionado.tipo}" class="w-full h-48 object-contain mx-auto rounded">
-        <h3> Descripcion </h3>
+        <h3> Descripción </h3>
         <p class="black mt-4">${productoSeleccionado.descripcion}</p>
       `;
       document.getElementById("modal").classList.remove("hidden");
