@@ -1,5 +1,60 @@
-body {
-    background-color: #fdfcf9;
+  body {
+    background-color: #f1e6f4;
     font-family: 'Helvetica Neue', sans-serif;
   }
+  .titulo-servicion-productos {
+    font-size: 1.5rem;        /* text-2xl */
+    font-weight: 700;         /* font-bold */
+    color: #7c3aed;           /* text-purple-600 */
+    text-align: center;       /* text-center */
+    margin-bottom: 1.5rem;    /* mb-6 */
+  }
+  .seccion-servicios-productos {
+    background-color: #f1e6f4; /* bg-purple-50 */
+    padding-left: 1.5rem;      /* px-6 */
+    padding-right: 1.5rem;     /* px-6 */
+    padding-top: 2rem;         /* py-8 */
+    padding-bottom: 2rem;      /* py-8 */
+    margin-top: 1rem;          /* mt-4 */
+  }
+  .grid-servicios-contenedor {
+    display: grid;
+    grid-template-columns: 1fr;   /* grid-cols-1 */
+    gap: 1.5rem;                  /* gap-6 */
+    max-width: 64rem;             /* max-w-4xl -> 1024px */
+    margin-left: auto;            /* mx-auto -> centra horizontalmente */
+    margin-right: auto;
+  }  
+  /* Versión para pantallas medianas (responsive) */
+  @media (min-width: 768px) { /* md: */
+    .grid-servicios-contenedor {
+      grid-template-columns: repeat(2, 1fr); /* md:grid-cols-2 */
+    }
+  }
+  .titulo-caja{
+    font-size: 1.25rem;        /* text-xl en Tailwind */
+    font-weight: 600;           /* font-semibold */
+    color: whitesmoke;             /* text-purple-600 */
+    margin-bottom: 0.5rem;      /* mb-2 */
+    display: flex;              /* flex */
+    align-items: center;        /* items-center */
+    gap: 0.5rem;                /* gap-2 */
+  }
+  .titulo-seccion {
+    font-size: 1.5rem;          /* text-2xl en Tailwind */
+    font-weight: 700;           /* font-bold */
+    color: #7c3aed;             /* text-purple-600 */
+    margin-bottom: 0.5rem;      /* mb-2 */
+  }
+  .parrafo {
+    color: #374151; /* text-gray-700 */
+    font-size: 1rem; /* tamaño base del texto */
+    line-height: 1.5; /* buena práctica para que sea más legible */
+  }  
+  .subtexto {
+    display: block; /* que cada subtexto baje a nueva línea */
+    font-size: inherit; /* mismo tamaño que el párrafo */
+    margin-top: 0.5rem; /* espacio arriba */
+  }
+  
 

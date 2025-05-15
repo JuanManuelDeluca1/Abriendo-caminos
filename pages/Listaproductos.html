@@ -3,27 +3,39 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Servicios - Abriendo Caminos</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <title>Productos - Abriendo Caminos</title>
   <link rel="icon" type="image/png" href="../images/logo.jpeg">
-  <link rel="stylesheet" href="../css/styles.css">
-  <link rel="stylesheet" href="../css/stylescontactos.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="../css/styles.css" />
+  <link rel="stylesheet" href="../css/stylescontactos.css" />
+  <link rel="stylesheet" href="../css/stylescajas.css" />
 </head>
-<body class="text-gray-800">
-  <!-- Header -->
-  <header class="text-center py-8" data-aos="fade-down">
-    <img src="../images/logo.jpeg" alt="Logo Abriendo Caminos" class="mx-auto w-35 h-40" />
-    <h1 id="titulo-servicio" class="text-3xl font-semibold text-purple-600 mt-4">
-    </h1>
+<body class="body">
+
+  <!-- Header como en la principal -->
+  <header class="text-center py-8">
+    <img src="../images/logo.jpeg" alt="Logo Abriendo Caminos" class="mx-auto w-32 h-32" />
+    <h1 class="text-3xl font-semibold text-purple-600 mt-4">Abriendo Caminos</h1>
+    <p class="text-purple-400">Sanación para el alma, cuerpo y mente</p>
   </header>
 
-  <!-- Contenido del servicio -->
-  <section class="px-6 py-8 max-w-4xl mx-auto" data-aos="fade-up">
-    <div id="lista-servicios" class="bg-white p-6 rounded-xl shadow-md">
-      <!-- Aquí se insertará dinámicamente el contenido del servicio desde servicios.js -->
+  <!-- Título de categoría -->
+  <h2 id="titulo-categoria" class="text-2xl font-bold text-center my-6 text-purple-700">Cargando...</h2>
+
+  <!-- Lista de productos -->
+  <div id="lista-productos" class="grid gap-6 px-4 md:grid-cols-2 lg:grid-cols-3 mb-10">Cargando productos...</div>
+
+  <!-- Modal -->
+  <div id="modal" class="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50 hidden">
+    <div class="bg-white rounded-2xl shadow-lg p-6 w-11/12 max-w-md relative">
+      <button id="cerrar-modal" class="absolute top-2 right-3 text-gray-500 hover:text-red-600 text-xl font-bold">
+        ✖
+      </button>
+      <div id="contenido-modal" class="text-center space-y-4">
+        <!-- Contenido desde JS -->
+      </div>
     </div>
-  </section>
+  </div>
 
   <!-- Contacto -->
   <section class="seccion-contacto" data-aos="fade-up">
@@ -56,13 +68,7 @@
     © 2025 Abriendo Caminos. Todos los derechos reservados.
   </footer>
 
-  <!-- AOS Script -->
-  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <script>
-    AOS.init();
-  </script>
-
-  <!-- Script que carga el contenido -->
-  <script src="../js/cargarservicio.js"></script>
+  <!-- Script -->
+  <script src="../js/cargarlistaproductos.js"></script>
 </body>
 </html>

@@ -6,68 +6,148 @@
   <title>Abriendo Caminos</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-  <link rel="icon" type="image/png" href="images/logo.png">
+  <link rel="icon" type="image/png" href="images/logo.jpeg">
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/stylescontactos.css">
+  <link rel="stylesheet" href="css/stylescajas.css">
 </head>
-<body class="text-gray-800">
+<body class="body">
   <!-- Header con logo -->
   <header class="text-center py-8" data-aos="fade-down">
-    <img src="images/logo.png" alt="Logo Abriendo Caminos" class="mx-auto w-32 h-32" />
+    <img src="images/logo.jpeg" alt="Logo Abriendo Caminos" class="mx-auto w-32 h-32" />
     <h1 class="text-3xl font-semibold text-purple-600 mt-4">Abriendo Caminos</h1>
     <p class="text-purple-400">Sanacíon para el alma cuerpo y mente</p>
   </header>
 
   <!-- Sección sobre nosotros -->
   <section class="px-6 py-6 max-w-xl mx-auto" data-aos="fade-up">
-    <h2 class="text-2xl font-bold text-purple-600 mb-2">Quiénes somos</h2>
-    <p class="text-gray-700">Somos un espacio en el que tomamos a cada persona como un todo.
-      <sub style="font-size: inherit;">Trabjamos con niños, adolecentes y adultos, desde la sanación interna, acompañamos con terapia alternativas.</sub> 
-      <sub style="font-size: inherit;">Tambien pensamos en el entorno y ahi es donde hacemos limpiezas para el hogar</sub>.</p>
+    <h2 class="titulo-seccion">Quiénes somos</h2>
+    <p class="parrafo">
+      Somos un espacio en el que tomamos a cada persona como un todo.
+    </p>
+    <p class="subtexto">
+      Trabajamos con niños, adolescentes y adultos, desde la sanación interna, acompañamos con terapias alternativas.
+    </p>
+    <p class="subtexto">
+      También pensamos en el entorno y ahí es donde hacemos limpiezas para el hogar.
+    </p>
   </section>
 
-<!-- Productos y Servicios -->
-<section class="bg-purple-50 px-6 py-8 mt-4" data-aos="fade-up">
-  <h2 class="text-2xl font-bold text-purple-600 text-center mb-6">Productos & Servicios</h2>
+<!-- Productos -->
+<section class="seccion-servicios-productos" data-aos="fade-up">
+  <h2 class="titulo-servicion-productos">Productos</h2>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
-    <!-- Caja de Productos -->
-    <a href="/pages/productos.html" class="block bg-white shadow-md rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-      <h3 class="text-xl font-semibold text-purple-600 mb-2 flex items-center gap-2">
-        <img src="images/sticker-sahumerio.png" alt="Sahumerio" class="w-6 h-6" />
-        Productos
+  <div class="grid-servicios-contenedor">
+    <!-- Caja de Sahumerios -->
+    <a href="/pages/Listaproductos.html?producto=Sahumerio" class="caja-sahumerios">
+      <h3 class="titulo-caja">
+        Sahumerios
       </h3>
-      <p class="text-gray-700">Descubrí nuestros sahumerios, bombas aromáticas y mas.</p>
     </a>
+    <!-- Caja de Defumacion -->
+    <a href="/pages/Listaproductos.html?producto=Defumacion" class="caja-defumacion">
+      <h3 class="titulo-caja">
+        Defumacion
+      </h3>
+    </a>
+    <!-- Caja de Sahumadores -->
+    <a href="/pages/Listaproductos.html?producto=Sahumadores" class="caja-sahumadores">
+      <h3 class="titulo-caja">
+       Sahumadores
+      </h3>
+    </a>
+    <!-- Caja de Porta sahumerios -->
+    <a href="/pages/Listaproductos.html?producto=Porta sahumerios" class="caja-portasahumerios">
+      <h3 class="titulo-caja">
+       Porta sahumerio
+      </h3>
+    </a>
+    <!-- Caja de Velas -->
+    <a href="/pages/Listaproductos.html?producto=Velas" class="caja-velas">
+      <h3 class="titulo-caja">
+        Velas
+      </h3>
+    </a>
+    <!-- Caja de Brumas -->
+    <a href="/pages/Listaproductos.html?producto=Brumas" class="caja-brumas">
+      <h3 class="titulo-caja">
+        Brumas
+      </h3>
+    </a>
+  </div>
+</section>
 
-    <!-- Caja de Servicios -->
-    <a href="/pages/servicio.html" class="block bg-white shadow-md rounded-xl p-6 hover:shadow-lg transition-all duration-300">
-      <h3 class="text-xl font-semibold text-purple-600 mb-2">💆‍♀️ Servicios</h3>
-      <p class="text-gray-700">Conocé nuestras sesiones de Reiki, guías personalizadas para armonizar tu energía y muchas mas.</p>
+<!-- Servicios -->
+<section class="seccion-servicios-productos" data-aos="fade-up">
+  <h2 class="titulo-servicion-productos">Servicios</h2>
+
+  <div class="grid-servicios-contenedor">
+    <!-- Registros Akashicos -->
+    <a href="/pages/servicio.html?servicio=LOS REGISTROS AKÁSHICOS" class="caja-akashicos">
+      <h3 class="titulo-caja">Registro akashicos</h3>
+    </a>
+    <!-- Ritualies de limpieza general -->
+    <a href="/pages/servicio.html?servicio=RITUALES DE LIMPIEZA GENERALES" class="caja-limpiezaGeneral">
+      <h3 class="titulo-caja">Rituales de limpieza general</h3>
+    </a>
+    <!-- Reiki -->
+    <a href="/pages/servicio.html?servicio=REIKI" class="caja-reiki">
+      <h3 class="titulo-caja">Reiki</h3>
+    </a>
+    <!-- Limpieza energetica personalizada -->
+    <a href="/pages/servicio.html?servicio=LIMPIEZA ENERGÉTICA PERSONALIZADA" class="caja-limpiezaEnergetica">
+      <h3 class="titulo-caja">Limpieza energetica personalizada</h3>
+    </a>
+    <!-- Alinacion y desbloqueo de chakras -->
+    <a href="/pages/servicio.html?servicio=ALINEACIÓN Y DESBLOQUEO DE CHAKRAS" class="caja-chakras">
+      <h3 class="titulo-caja">Alineacion y desbloqueo de chakras</h3>
+    </a>
+    <!-- Limpieza angelical -->
+    <a href="/pages/servicio.html?servicio=LIMPIEZA ANGÉLICAL" class="caja-angelical">
+      <h3 class="titulo-caja">Limpieza angelical</h3>
+    </a>
+    <!-- Aromaterapia -->
+    <a href="/pages/servicio.html?servicio=AROMATERÁPIA" class="caja-aromaterapia">
+      <h3 class="titulo-caja">Aromaterapia</h3>
+    </a>
+    <!-- Terapia alternativo para niños y adolecentes -->
+    <a href="/pages/servicio.html?servicio=TERAPIAS ALTERNATIVAS PARA NIÑOS Y ADOLESCENTES" class="caja-terapias">
+      <h3 class="titulo-caja">Terapia alternativo para niños y adolecentes</h3>
+    </a>
+    <!-- Limpieza energetica personalizada para el hogar y/o lugar de trabajo -->
+    <a href="/pages/servicio.html?servicio=LIMPIEZA ENERGÉTICA PERSONALIZADA PARA EL HOGAR Y O TRABAJO" class="caja-limpiezaPersonalizada">
+      <h3 class="titulo-caja">Limpieza energetica personalizada para el hogar y/o lugar de trabajo</h3>
     </a>
   </div>
 </section>
 
   <!-- Contacto -->
-  <section class="px-6 py-8 text-center" data-aos="fade-up">
-    <h2 class="text-2xl font-bold text-purple-600 mb-4">Contacto</h2>
-    <p class="mb-6">Escribinos para pedidos, consultas o turnos</p>
+  <section class="seccion-contacto" data-aos="fade-up">
+    <h2 class="titulo-contacto">Contacto</h2>
+    <p class="descripcion-contacto">Escribinos para pedidos, consultas o turnos</p>
   
-    <div class="flex justify-center gap-6">
+    <div class="botones-contacto">
       <!-- Botón WhatsApp -->
-      <a href="https://wa.me/549XXXXXXXXXX" target="_blank" class="flex items-center gap-2 bg-green-500 text-white px-4 py-2 rounded-full shadow-md hover:bg-green-600 transition">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 fill-white" viewBox="0 0 24 24"><path d="M12.004 0C5.373 0 0 5.373 0 12.004c0 2.118.553 4.185 1.601 6.003L0 24l6.199-1.584c1.786.974 3.795 1.489 5.805 1.488h.001c6.629 0 12.004-5.373 12.004-12.004C24.009 5.373 18.633 0 12.004 0zm6.878 17.084c-.292.822-1.438 1.532-1.983 1.629-.511.093-1.164.132-1.875-.117-.433-.147-1.001-.324-1.723-.636-3.034-1.315-5.007-4.43-5.157-4.642-.15-.211-1.231-1.637-1.231-3.128 0-1.492.785-2.225 1.063-2.525.278-.3.603-.375.804-.375.201 0 .402.002.577.01.186.009.435-.07.683.521.271.639.922 2.214 1.003 2.373.081.159.135.351.024.562-.11.211-.165.338-.327.519-.163.181-.344.405-.49.546-.164.157-.335.329-.143.645.191.316.85 1.401 1.82 2.27 1.252 1.125 2.303 1.473 2.619 1.639.317.165.5.139.687-.083.188-.223.794-.925 1.008-1.24.214-.316.427-.262.725-.157.299.105 1.893.893 2.217 1.055.324.162.541.242.62.378.081.135.081.783-.211 1.605z"/></svg>
+      <a href="https://wa.me/5491132919302" target="_blank" class="boton-whatsapp">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icono-boton" viewBox="0 0 24 24">
+          <path d="M12.004 0C5.373 0 0 5.373 0 12.004c0 2.118.553 4.185 1.601 6.003L0 24l6.199-1.584c1.786.974 3.795 1.489 5.805 1.488h.001c6.629 0 12.004-5.373 12.004-12.004C24.009 5.373 18.633 0 12.004 0zm6.878 17.084c-.292.822-1.438 1.532-1.983 1.629-.511.093-1.164.132-1.875-.117-.433-.147-1.001-.324-1.723-.636-3.034-1.315-5.007-4.43-5.157-4.642-.15-.211-1.231-1.637-1.231-3.128 0-1.492.785-2.225 1.063-2.525.278-.3.603-.375.804-.375.201 0 .402.002.577.01.186.009.435-.07.683.521.271.639.922 2.214 1.003 2.373.081.159.135.351.024.562-.11.211-.165.338-.327.519-.163.181-.344.405-.49.546-.164.157-.335.329-.143.645.191.316.85 1.401 1.82 2.27 1.252 1.125 2.303 1.473 2.619 1.639.317.165.5.139.687-.083.188-.223.794-.925 1.008-1.24.214-.316.427-.262.725-.157.299.105 1.893.893 2.217 1.055.324.162.541.242.62.378.081.135.081.783-.211 1.605z"/>
+        </svg>
         WhatsApp
       </a>
   
       <!-- Botón Instagram -->
-      <a href="https://instagram.com/abriendocaminos" target="_blank" class="flex items-center gap-2 bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 text-white px-4 py-2 rounded-full shadow-md hover:opacity-90 transition">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 fill-white" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.849.07 1.366.062 2.633.344 3.608 1.32.975.975 1.257 2.242 1.32 3.608.058 1.265.069 1.645.069 4.849s-.012 3.584-.069 4.849c-.063 1.366-.345 2.633-1.32 3.608-.975.975-2.242 1.257-3.608 1.32-1.265.058-1.645.069-4.849.069s-3.584-.012-4.849-.069c-1.366-.063-2.633-.345-3.608-1.32-.975-.975-1.257-2.242-1.32-3.608C2.175 15.584 2.163 15.204 2.163 12s.012-3.584.07-4.849c.062-1.366.344-2.633 1.32-3.608.975-.975 2.242-1.257 3.608-1.32C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.736 0 8.332.014 7.052.072 5.77.13 4.505.414 3.445 1.473 2.386 2.532 2.102 3.798 2.044 5.08.986 6.36.973 6.764.973 12c0 5.236.014 5.64.072 6.92.058 1.282.342 2.548 1.401 3.607 1.06 1.06 2.326 1.343 3.608 1.401 1.28.058 1.684.072 6.92.072s5.64-.014 6.92-.072c1.282-.058 2.548-.341 3.607-1.401 1.06-1.06 1.343-2.325 1.401-3.607.058-1.28.072-1.684.072-6.92s-.014-5.64-.072-6.92c-.058-1.282-.341-2.548-1.401-3.607C20.552.414 19.286.13 18.004.072 16.724.014 16.32 0 12 0z"/><path d="M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a3.999 3.999 0 1 1 0-7.998 3.999 3.999 0 0 1 0 7.998z"/><circle cx="18.406" cy="5.595" r="1.44"/></svg>
+      <a href="https://www.instagram.com/abriendocaminosss/" target="_blank" class="boton-instagram">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icono-boton" viewBox="0 0 24 24">
+          <path d="M12 2.163c3.204 0 3.584.012 4.849.07 1.366.062 2.633.344 3.608 1.32.975.975 1.257 2.242 1.32 3.608.058 1.265.069 1.645.069 4.849s-.012 3.584-.069 4.849c-.063 1.366-.345 2.633-1.32 3.608-.975.975-2.242 1.257-3.608 1.32-1.265.058-1.645.069-4.849.069s-3.584-.012-4.849-.069c-1.366-.063-2.633-.345-3.608-1.32-.975-.975-1.257-2.242-1.32-3.608C2.175 15.584 2.163 15.204 2.163 12s.012-3.584.07-4.849c.062-1.366.344-2.633 1.32-3.608.975-.975 2.242-1.257 3.608-1.32C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.736 0 8.332.014 7.052.072 5.77.13 4.505.414 3.445 1.473 2.386 2.532 2.102 3.798 2.044 5.08.986 6.36.973 6.764.973 12c0 5.236.014 5.64.072 6.92.058 1.282.342 2.548 1.401 3.607 1.06 1.06 2.326 1.343 3.608 1.401 1.28.058 1.684.072 6.92.072s5.64-.014 6.92-.072c1.282-.058 2.548-.341 3.607-1.401 1.06-1.06 1.343-2.325 1.401-3.607.058-1.28.072-1.684.072-6.92s-.014-5.64-.072-6.92c-.058-1.282-.341-2.548-1.401-3.607C20.552.414 19.286.13 18.004.072 16.724.014 16.32 0 12 0z"/>
+          <path d="M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a3.999 3.999 0 1 1 0-7.998 3.999 3.999 0 0 1 0 7.998z"/>
+          <circle cx="18.406" cy="5.595" r="1.44"/>
+        </svg>
         Instagram
       </a>
     </div>
   </section>
-
-  <footer class="text-center text-sm text-purple-300 py-4" data-aos="fade-up">
+  
+  <footer class="footer-contacto" data-aos="fade-up">
     © 2025 Abriendo Caminos. Todos los derechos reservados.
   </footer>
 

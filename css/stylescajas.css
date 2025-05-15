@@ -1,0 +1,220 @@
+.caja-velas {
+    display: block;
+    background-image: url('/images/velas.jpeg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-velas:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+  .caja-sahumerios {
+    display: block;
+    background-image: url('/images/sahumerios.jpeg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }
+  /* Hover efecto */
+  .caja-sahumerios:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+  .caja-sahumadores {
+    display: block;
+    background-image: url('/images/sahumadores.jpeg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  } 
+  /* Hover efecto */
+  .caja-sahumadores:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+  .caja-portasahumerios {
+    display: block;
+    background-image: url('/images/portasahumerios.jpeg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }
+  /* Hover efecto */
+  .caja-portasahumerios:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+  .caja-defumacion {
+    display: block;
+    background-image: url('/images/defumacion.jpeg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }
+  /* Hover efecto */
+  .caja-defumacion:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+  .caja-brumas {
+    display: block;
+    background-image: url('/images/brumas.jpeg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }
+  /* Hover efecto */
+  .caja-brumas:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .caja-akashicos {
+    display: block;
+    background-image: url('../images/servicios/registros akashicos.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-akashicos:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .caja-limpiezaGeneral {
+    display: block;
+    background-image: url('../images/servicios/rituales de limpieza generales.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-limpiezaGeneral:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .caja-reiki {
+    display: block;
+    background-image: url('../images/servicios/reiki.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-reiki:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .caja-limpiezaEnergetica {
+    display: block;
+    background-image: url('../images/servicios/limpieza energetica p.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-limpiezaEnergetica:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+
+  .caja-chakras {
+    display: block;
+    background-image: url('../images/servicios/chakras.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-chakras:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .caja-angelical {
+    display: block;
+    background-image: url('../images/servicios/angeles.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-angelical:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .caja-aromaterapia {
+    display: block;
+    background-image: url('../images/servicios/aromaterapia.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-aromaterapia:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .caja-terapias {
+    display: block;
+    background-image: url('../images/servicios/terapia niños.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-terapias:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
+
+  .caja-limpiezaPersonalizada {
+    display: block;
+    background-image: url('../images/servicios/limpieza hogar.jpg');
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 0.75rem; /* rounded-xl */
+    padding: 3rem;          /* p-12 */
+    transition: box-shadow 0.3s ease;
+  }  
+  /* Hover efecto */
+  .caja-limpiezaPersonalizada:hover {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+  }
