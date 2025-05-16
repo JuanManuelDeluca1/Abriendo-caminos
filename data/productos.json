@@ -428,7 +428,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Quemador doble funcion madera",
-    "descripcion":"",
+    "descripcion":"Inicia el prendido de las bombitas y carbones. También podes poner el palo santo para que se queme.",
     "imagen":"../images/productos/Sahumadores/Iniciador de bombitas y quemador de palo santo.jpeg"
   },
   {
@@ -436,7 +436,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Iniciador de hierro",
-    "descripcion":"",
+    "descripcion":"Para iniciar el prendido de bombitas o carbones.",
     "imagen":"../images/productos/Sahumadores/Iniciador de bombitas.jpeg"
   },
   {
