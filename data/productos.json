@@ -2,9 +2,9 @@
   {
     "id":"Sahu-01",
     "producto":"Sahumerio",
-    "tipo":"Suelto importado ",
-    "caracteristicas":"Sultos importado 50",
-    "descripcion":"Sahumerios varidos importados en un paquete de 50 unidades",
+    "tipo":"Suelto importados",
+    "caracteristicas":"Sueltos importados 50",
+    "descripcion":"Sahumerios variados importados en un paquete de 50 unidades",
     "imagen":"../images/productos/Sahumerios/sahumerios x 50.jpeg"
   },
   {
@@ -19,7 +19,7 @@
     "id":"Sahu-03",
     "producto":"Sahumerio",
     "tipo":"Aromanza Tibetanos x8",
-    "caracteristicas":"Nectar de los diioses",
+    "caracteristicas":"Nectar de los dioses",
     "descripcion":"Tienen un significado relacionado con la conexión espiritual y la creación de un ambiente armonioso y relajante. Se utilizan para purificar el espacio, calmar la mente y elevar la energía.",
     "imagen":"../images/productos/Sahumerios/sahumerios tibetanos8.jpg"
   },
@@ -36,7 +36,7 @@
     "producto":"Sahumerio",
     "tipo":"Aromanza Tibetanos x8",
     "caracteristicas":"Citronela",
-    "descripcion":"Te da energia por la mañana, ayuda en la creativdad y en el estudio. En el exterior auyenta mosquitas",
+    "descripcion":"Te da energía por la mañana, ayuda en la creativdad y en el estudio. En el exterior auyenta mosquitos",
     "imagen":"../images/productos/Sahumerios/sahumerios tibetanos8.jpg"
   },
   {
@@ -92,7 +92,7 @@
     "producto":"Sahumerio",
     "tipo":"Aromanza Tibetanos x8",
     "caracteristicas":"Lavanda",
-    "descripcion":"Nos libra de miedos y nos descarga, Aleja las malas vibraciones e impulsa nuestra actividad comercial.",
+    "descripcion":"Nos libera de miedos y nos descarga, aleja las malas vibraciones e impulsa nuestra actividad comercial.",
     "imagen":"../images/productos/Sahumerios/sahumerios tibetanos8.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "producto":"Sahumerio",
     "tipo":"Aromanza Tibetanos x8",
     "caracteristicas":"Energía limpia",
-    "descripcion":"Su funcion es mantener la limpieza del hogar una vez realizado el sahumado",
+    "descripcion":"Su función es mantener la limpieza del hogar una vez realizado el sahumado",
     "imagen":"../images/productos/Sahumerios/sahumerios tibetanos8.jpg"
   },
   {
@@ -140,7 +140,7 @@
     "producto":"Sahumerio",
     "tipo":"Organicos x5",
     "caracteristicas":"Vainilla y romero",
-    "descripcion":"Ayuda a relajar, dejando un aroma agradable para la sensacino de bien estar en nuestro cerebro y hogar",
+    "descripcion":"Ayuda a relajar, dejando un aroma agradable para la sensación de bien estar en nuestro cerebro y hogar",
     "imagen":"../images/productos/Sahumerios/sahumerios organicos Sagrada Madre.jpeg"
   },
   {
@@ -188,7 +188,7 @@
     "producto":"Sahumerio",
     "tipo":"Organicos x5",
     "caracteristicas":"Lavanda",
-    "descripcion":"Nos libra de miedos y nos descarga, Aleja las malas vibraciones e impulsa nuestra actividad comercial.",
+    "descripcion":"Nos libera de miedos y nos descarga, aleja las malas vibraciones e impulsa nuestra actividad comercial.",
     "imagen":"../images/productos/Sahumerios/sahumerios organicos Sagrada Madre.jpeg"
   },
   {
@@ -196,7 +196,7 @@
     "producto":"Sahumerio",
     "tipo":"Organicos x5",
     "caracteristicas":"Palo Santo",
-    "descripcion":"Se utiliza para expulsar las energías negativas y atraer las energías positivas. Equilibra las energías, buscando y aumentando todo positivo. Ayuda a controlar las enfermedades actuales causadas por el estrés regalando paz y armonía. Eso es debido a sus propiedades de limpieza física y espiritual.",
+    "descripcion":"Se utiliza para expulsar las energías negativas y atraer las energías positivas. Equilibra las energías, buscando y aumentando todo lo positivo. Ayuda a controlar las enfermedades actuales causadas por el estrés regalando paz y armonía. Eso es debido a sus propiedades de limpieza física y espiritual.",
     "imagen":"../images/productos/Sahumerios/sahumerios organicos Sagrada Madre.jpeg"
   },
   {
@@ -228,7 +228,7 @@
     "producto":"Sahumerio",
     "tipo":"Organicos x5",
     "caracteristicas":"Sándalo",
-    "descripcion":"Tramite calidez, comunicación, el buen humor y la conexión entre las personas que nos rodean, haciendo que mejoren nuestras relaciones sociales. Provoca un estado de elevación espiritual, al ser relajante nos da paz interior.",
+    "descripcion":"Transmite calidez, comunicación, el buen humor y la conexión entre las personas que nos rodean, haciendo que mejoren nuestras relaciones sociales. Provoca un estado de elevación espiritual, al ser relajante nos da paz interior.",
     "imagen":"../images/productos/Sahumerios/sahumerios organicos Sagrada Madre.jpeg"
   },
   {
@@ -292,7 +292,7 @@
     "producto":"Sahumerio",
     "tipo":"Tibetanos",
     "caracteristicas":"Viva la vida",
-    "descripcion":"Se usa para crear un ambiente agradable, relagante, lleno de energia positiva y permite la buena comunicacion.",
+    "descripcion":"Se usa para crear un ambiente agradable, relajante, lleno de energía positiva y permite la buena comunicación.",
     "imagen":"../images/productos/Sahumerios/sahumerios tibetanos slim.png"
   },
   {
@@ -316,7 +316,7 @@
     "producto":"Sahumerio",
     "tipo":"Tibetanos",
     "caracteristicas":"Berry kiss",
-    "descripcion":"",
+    "descripcion":"Su propósito principal es limpiar la energía de los espacios, alejando energías negativas.",
     "imagen":"../images/productos/Sahumerios/sahumerios tibetanos slim.png"
   },
   {
@@ -340,28 +340,28 @@
     "producto":"Sahumerio",
     "tipo":"Tibetanos",
     "caracteristicas":"Palo Santo",
-    "descripcion":"se utiliza para expulsar las energías negativas y atraer las energías positivas. Equilibra las energías, buscando y aumentando todo positivo. Ayuda a controlar las enfermedades actuales causadas por el estrés regalando paz y armonía. Eso es debido a sus propiedades de limpieza física y espiritual.",
+    "descripcion":"Se utiliza para limpiar energéticamente los espacios, atraer energías positivas y promover la calma y la meditación. Su aroma dulce y amaderado ayuda a reducir el estrés, elevar el ánimo y crear un ambiente de armonía espiritual.",
     "imagen":"../images/productos/Sahumerios/sahumerios tibetanos slim.png"
   },
   {
     "id":"Defu-01",
-    "producto":"Defumacion",
+    "producto":"Defumación",
     "tipo":"Combinados ",
     "caracteristicas":"Carbones x 4",
-    "descripcion":"Se usan para hacer limpieza energetica purificando y renovando el ambiente",
+    "descripcion":"Se usan para hacer limpieza energética purificando y renovando el ambiente",
     "imagen":"../images/productos/Defumacion/carbones.jpg"
   },
   {
     "id":"Defu-02",
-    "producto":"Defumacion",
+    "producto":"Defumación",
     "tipo":"Combinados ",
     "caracteristicas":"Carbones x 4 + yuyos",
-    "descripcion":"Se usan para hacer limpieza energetica purificando y renovando el ambiente, son lo mas poderosos para limpiar tu hogar y/o lugar de trabajo",
+    "descripcion":"Se usan para hacer limpieza energética purificando y renovando el ambiente, son lo más poderosos para limpiar tu hogar y/o lugar de trabajo",
     "imagen":"../images/productos/Defumacion/carbones con yuyos.jpeg"
   },
   {
     "id":"Defu-03",
-    "producto":"Defumacion",
+    "producto":"Defumación",
     "tipo":"Combinados ",
     "caracteristicas":"Bombitas x4",
     "descripcion":"Se usan para hacer limpieza energetica purificando y renovando el ambiente",
@@ -369,18 +369,18 @@
   },
   {
     "id":"Defu-04",
-    "producto":"Defumacion",
+    "producto":"Defumación",
     "tipo":"Combinados ",
     "caracteristicas":"Sahumos",
-    "descripcion":"Se trata de inciensos narturales echo a vaces de hojas secas que ayudan a renobar la engergia del hogar",
+    "descripcion":"Se trata de inciensos narturales hecho a base de hojas naturales secas que ayudan a renovar la engergía del hogar",
     "imagen":"../images/productos/Defumacion/sahumos.jpg"
   },
   {
     "id":"Defu-05",
-    "producto":"Defumacion",
+    "producto":"Defumación",
     "tipo":"Combinados ",
     "caracteristicas":"Palo Santo x 50 gr.",
-    "descripcion":"Se utilizan para expulsar las energias negativas, atraer las positivas equilibrandolas. Ayuda al contro de enfermedades como el estres y ansiedad",
+    "descripcion":"Se utilizan para expulsar las energías negativas, atraer las positivas equilibrándolas. Ayuda al contro de enfermedades como el estrés y ansiedad",
     "imagen":"../images/productos/Defumacion/palosanto.jpg"
   },
   {
@@ -388,7 +388,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Bizcocho",
-    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energeticas",
+    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energéticas",
     "imagen": "../images/productos/Sahumadores/sahumador bizcocho.jpeg"
   },
   {
@@ -396,7 +396,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Cemento",
-    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energeticas",
+    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energéticas",
     "imagen": "../images/productos/Sahumadores/sahumador cemento.png"
   },
   {
@@ -404,7 +404,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Rusticos",
-    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energeticas",
+    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energéticas",
     "imagen": "../images/productos/Sahumadores/sahumador rustico.jpg"
   },
   {
@@ -412,7 +412,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Esmaltados",
-    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energeticas",
+    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energéticas",
     "imagen": "../images/productos/Sahumadores/sahumadores esmaltado.png"
   },
   {
@@ -420,7 +420,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Rustico con tapa",
-    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energeticas",
+    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energéticas",
     "imagen":"../images/productos/Sahumadores/sahumador con tapa.jpeg"
   },
   {
@@ -428,7 +428,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Quemador doble funcion madera",
-    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energeticas",
+    "descripcion":"",
     "imagen":"../images/productos/Sahumadores/Iniciador de bombitas y quemador de palo santo.jpeg"
   },
   {
@@ -436,7 +436,7 @@
     "producto":"Sahumadores",
     "tipo":"",
     "caracteristicas":"Iniciador de hierro",
-    "descripcion":"Recipiente en el que se colocan las preparaciones para realizar las limpiezas energeticas",
+    "descripcion":"",
     "imagen":"../images/productos/Sahumadores/Iniciador de bombitas.jpeg"
   },
   {
@@ -452,7 +452,7 @@
     "producto":"Porta sahumerios",
     "tipo":"",
     "caracteristicas":"Largos madera",
-    "descripcion":"Lugar que contiene la cenizas expulsadas por el sahumerio y sosten de sahumerio",
+    "descripcion":"Lugar que contiene las cenizas expulsadas por el sahumerio y sosten del sahumerio",
     "imagen": "../images/productos/Porta sahumerios/porta sahumerios largos madera.jpg"
   },
   {
@@ -460,7 +460,7 @@
     "producto":"Porta sahumerios",
     "tipo":"",
     "caracteristicas":"Yeso pintado",
-    "descripcion":"Lugar que contiene la cenizas expulsadas por el sahumerio y sosten de sahumerio",
+    "descripcion":"Lugar que contiene las cenizas expulsadas por el sahumerio y sosten del sahumerio",
     "imagen": "../images/productos/Porta sahumerios/porta sahumerios yeso pintado.jpg"
   },
   {
@@ -476,7 +476,7 @@
     "producto":"Porta sahumerios",
     "tipo":"",
     "caracteristicas":"Cerámica chicos",
-    "descripcion":"Lugar que contiene la cenizas expulsadas por el sahumerio y sosten de sahumerio",
+    "descripcion":"Lugar que contiene las cenizas expulsadas por el sahumerio y sosten del sahumerio",
     "imagen": "../images/productos/Porta sahumerios/porta sahumerios ceramicas chicos.jpeg"
   },
   {
@@ -484,7 +484,7 @@
     "producto":"Porta sahumerios",
     "tipo":"",
     "caracteristicas":"Sellos",
-    "descripcion":"Lugar que contiene la cenizas expulsadas por el sahumerio y sosten de sahumerio",
+    "descripcion":"Lugar que contiene las cenizas expulsadas por el sahumerio y sosten del sahumerio",
     "imagen": "../images/productos/Porta sahumerios/porta sahumerio sello.jpeg"
   },
   {
@@ -492,7 +492,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"7 colores",
-    "descripcion":"Se utilizan para ritualez de potencion de energias y para atrear fuerza, proteccion, union, armonia, bienestar y posperidad",
+    "descripcion":"Se utilizan para rituales de potenciación de energías y para atrear fuerza, protección, unión, armonía, bienestar y posperidad",
     "imagen": "../images/productos/Velas/velas 7 colores.jpg"
   },
   {
@@ -500,7 +500,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"Naranja",
-    "descripcion":"Para fonmentar la engergia, creatividad, estuciasmo. Arcangel Uriel",
+    "descripcion":"Para fomentar la engergía, creatividad, entusiasmo. Arcángel Uriel",
     "imagen": "../images/productos/Velas/vela naranja.jpg"
   },
   {
@@ -508,7 +508,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"Violeta",
-    "descripcion":"Representa espiritualidad, intuicion y transformacion. Arcangel Zadkiel",
+    "descripcion":"Representa espiritualidad, intuición y transformación. Arcángel Zadkiel",
     "imagen": "../images/productos/Velas/vela violeta.jpg"
   },
   {
@@ -516,7 +516,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"Azul",
-    "descripcion":"Simbolisa la calma, paz, tranquilidad y seneridad. Arcangel Miguel",
+    "descripcion":"Simboliza la calma, paz, tranquilidad y senrenidad. Arcángel Miguel",
     "imagen": "../images/productos/Velas/vela azul.jpg"
   },
   {
@@ -524,7 +524,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"Amarillo",
-    "descripcion":"Se asocia con la prosperidad, el exito, optimismo. Arcangel Jofiel",
+    "descripcion":"Se asocia con la prosperidad, el éxito, optimismo. Arcángel Jofiel",
     "imagen": "../images/productos/Velas/vela amarrilla.jpg"
   },
   {
@@ -532,7 +532,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"Rosa",
-    "descripcion":"Se asocia con el amor puro, la ternura, la compacion y la amistad. Arcangel Chamuel",
+    "descripcion":"Se asocia con el amor puro, la ternura, la compación y la amistad. Arcángel Chamuel",
     "imagen": "../images/productos/Velas/vela rosa.jpeg"
   },
   {
@@ -540,7 +540,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"Roja",
-    "descripcion":"Simbolisa pasion, amor, energia, coraje y fuerza. Arcangel Uriel",
+    "descripcion":"Simboliza pasión, amor, energía, coraje y fuerza. Arcángel Uriel",
     "imagen": "../images/productos/Velas/vela roja.jpg"
   },
   {
@@ -548,7 +548,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"Celeste",
-    "descripcion":"Simbolisa serenidad, calma, espiritualidad y comunicacion. Arcangel Miguel",
+    "descripcion":"Simbolia serenidad, calma, espiritualidad y comunicación. Arcángel Miguel",
     "imagen": "../images/productos/Velas/vela celeste.jpg"
   },
   {
@@ -556,7 +556,7 @@
     "producto":"Velas",
     "tipo":"",
     "caracteristicas":"Blanca",
-    "descripcion":"Simbolisa puresa, paz, limpieza y conexcion con lo divino. Arcangel Gabriel",
+    "descripcion":"Simboliza pureza, paz, limpieza y conexión con lo divino. Arcángel Gabriel",
     "imagen": "../images/productos/Velas/vela blanca.jpeg"
   },
   {
@@ -572,7 +572,7 @@
     "producto":"Brumas",
     "tipo":"Essenze combinados",
     "caracteristicas":"Lavanda, manzanilla, menta",
-    "descripcion":"",
+    "descripcion":"Se utiliza para crear un ambiente relajante y calmante, especialmente antes de dormir. Cada ingrediente aporta beneficios individuales, pero juntos complementan la acción de relajación. La lavanda ayuda a reducir la ansiedad y a mejorar el sueño, la manzanilla tiene propiedades antiinflamatorias y calmantes, y la menta proporciona frescura.",
     "imagen":"../images/productos/Brumas/essenze combinadas.jpeg"
   },
   {
@@ -612,7 +612,7 @@
     "producto":"Brumas",
     "tipo":"Rocio Aurico Masala",
     "caracteristicas":"Calma, relax",
-    "descripcion":"Sirve para general una sensacion de calma, relajacion y bienestar.",
+    "descripcion":"Sirve para generar una sensación de calma, relajación y bienestar.",
     "imagen":"../images/productos/Brumas/rocio aurico masala.jpg"
   },
   {
@@ -620,7 +620,7 @@
     "producto":"Brumas",
     "tipo":"Rocio Aurico Masala",
     "caracteristicas":"Lavanda",
-    "descripcion":"Se usa principal mente para lograr una relajacion agradable en momento de ansiedad y estres",
+    "descripcion":"Se usa principalmente para lograr una relajación agradable en momentos de ansiedad y estrés",
     "imagen":"../images/productos/Brumas/rocio aurico masala.jpg"
   },
   {
@@ -628,7 +628,7 @@
     "producto":"Brumas",
     "tipo":"Rocio Aurico Masala",
     "caracteristicas":"Limon",
-    "descripcion":"Se usa para fortalezer la autoestima, relajacion y recargar las energias",
+    "descripcion":"Se usa para fortalecer la autoestima, relajación y recargar las energías",
     "imagen":"../images/productos/Brumas/rocio aurico masala.jpg"
   },
   {
@@ -636,30 +636,30 @@
     "producto":"Brumas",
     "tipo":"Rocio Aurico Masala",
     "caracteristicas":"Frutos rojos",
-    "descripcion":"Con un aroma dulce y a frutado, nos da relajacion agradable para comunicarnos con los demas",
+    "descripcion":"Con un aroma dulce y afrutado, nos da relajación agradable para comunicarnos con los de más",
     "imagen":"../images/productos/Brumas/rocio aurico masala.jpg"
   },
   {
     "id":"Brumas-10",
     "producto":"Brumas",
-    "tipo":"Rocio aurico buena energia",
-    "caracteristicas":"Proteccion energetica",
+    "tipo":"Rocío aúrico Buena Energía",
+    "caracteristicas":"Protección Energética",
     "descripcion":"Mezcla de aceites esenciales que se utilizan espiritual y energéticamente para LIMPIAR y. EQUILIBRAR el campo de energía o aura de una persona",
     "imagen":"../images/productos/Brumas/rocio aurico buena energia.jpeg"
   },
   {
     "id":"Brumas-11",
     "producto":"Brumas",
-    "tipo":"Rocio aurico buena energia",
-    "caracteristicas":"Energia angelical",
-    "descripcion":"Conecta con la guía y la luz divina, regenerando el Aura. Limpia y renueva tu campo energético.Conecta con la guía y la luz divina, regenerando el Aura. Limpia y renueva tu campo energético.",
+    "tipo":"Rocío aúrico Buena Energía",
+    "caracteristicas":"Energía Angelical",
+    "descripcion":"Conecta con la guía y la luz divina, regenerando el Aura. Limpia y renueva tu campo energético. Conecta con la guía y la luz divina, regenerando el Aura"
     "imagen":"../images/productos/Brumas/rocio aurico buena energia.jpeg"
   },
   {
     "id":"Brumas-12",
     "producto":"Brumas",
-    "tipo":"Rocio aurico buena energia",
-    "caracteristicas":"Armonizador chakras",
+    "tipo":"Rocío aúrico Buena Energía",
+    "caracteristicas":"Armonizador Chakras",
     "descripcion":"Equilibra los centros energéticos del cuerpo para que la energía fluya libremente. El objetivo es restaurar el equilibrio energético y promover el bienestar físico, mental y emocional.",
     "imagen":"../images/productos/Brumas/rocio aurico buena energia.jpeg"
   },
@@ -667,7 +667,7 @@
     "id":"Brumas-13",
     "producto":"Brumas",
     "tipo":"Aromaterapia A.C",
-    "caracteristicas":"Brumas personalizadas ",
+    "caracteristicas":"Brumas Personalizadas ",
     "descripcion":"Se hace especialmente para cada persona según su necesidad.",
     "imagen":"../images/productos/Brumas/aromaterapia.png"
   }
